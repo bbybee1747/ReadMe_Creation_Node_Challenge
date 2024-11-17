@@ -1,0 +1,16 @@
+{
+  "name": "readme_creation_node_challenge",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^12.1.0",
+    "js": "^0.1.0"
+  }
+}
