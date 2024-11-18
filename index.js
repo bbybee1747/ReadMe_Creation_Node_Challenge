@@ -88,7 +88,7 @@ function init() {
         }
     ])
     .then((response) => {
-        writeToFile('README.md', generateMarkdown(response));
+        writeToFile('./generatedReadme/readMe.txt', generateMarkdown(response));
     });
 }
 
