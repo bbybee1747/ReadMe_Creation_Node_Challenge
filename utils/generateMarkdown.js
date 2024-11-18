@@ -15,6 +15,7 @@ function renderLicenseBadge(license) {
   }
 }
 
+
 // If there is no license, return an empty string
 
 // TODO: Create a function that returns the license link
