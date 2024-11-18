@@ -98,4 +98,5 @@ function init() {
     console.log('Please answer the following questions to generate your README file.'.blue);
     console.log('Please note that all fields are required.'.red);
     init();
+    console.log('Thank you for using the README Generator!'.blue);
 }
