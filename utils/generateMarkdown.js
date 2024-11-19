@@ -77,7 +77,7 @@ function generateMarkdown(response) {
   ${response.features}
 
   ## Questions
-  If you have any questions, please contact me at ${response.email} or visit my github page at ${response.github}.
+  If you have any questions, please contact me at ${response.email} or visit my github page at [GitHub](${response.github}).
   `;
 }
 
