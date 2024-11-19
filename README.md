@@ -30,5 +30,5 @@
   I would like to add an option in the prompts for file destination that would open up a local file location of your choosing to add the generated file into your local storage.
 
   ## Questions
-  If you have any questions, please contact me at bybee.brandon1@gmail.com or visit my github page at github.com/bbybee1747.
+  If you have any questions, please contact me at bybee.brandon1@gmail.com or visit my github page at www.github.com/bbybee1747.
   
